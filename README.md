@@ -7,5 +7,5 @@ A simple roguelike made with [bewitch](https://github.com/brycecovert/bewitch) a
 
 1. Clone
 2. Download [dust](https://github.com/pixie-lang/dust)
-3. dust get-deps
-4. dust run src/ncurses.pxi
+3. ```dust get-deps```
+4. ```dust run src/game.pxi```
