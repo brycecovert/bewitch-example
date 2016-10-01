@@ -2,6 +2,7 @@
 using bewitch to create a roguelike in pixie
 
 A simple roguelike made with [bewitch](https://github.com/brycecovert/bewitch) and [pixie](https://github.com/pixie-lang/pixie).
+![Screenshot](https://s3.amazonaws.com/www.brycecovertoperations.com/bewitch-roguelike.png).
 
 ## running
 
