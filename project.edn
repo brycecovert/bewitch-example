@@ -1,0 +1,4 @@
+{:name ncurses-example
+ :version "0.1.0-alpha"
+ :description "Magic fairy dust for Pixie"
+ :dependencies [[brycecovert/bewitch "0.1.1"]]}
